@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code C\u002B\u002B\\Python\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0479EC-4E1B-4390-9844-907483F215F7}|Python\\Python.pyproj|D:\\code C\u002B\u002B\\Python\\Python\\Python.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9B0479EC-4E1B-4390-9844-907483F215F7}|Python\\Python.pyproj|solutionrelative:Python\\Python.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Python.py",
+              "DocumentMoniker": "D:\\code C\u002B\u002B\\Python\\Python\\Python.py",
+              "RelativeDocumentMoniker": "Python\\Python.py",
+              "ToolTip": "D:\\code C\u002B\u002B\\Python\\Python\\Python.py",
+              "RelativeToolTip": "Python\\Python.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-09T04:04:22.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
